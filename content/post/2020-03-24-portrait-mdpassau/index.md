@@ -73,7 +73,7 @@ Faire ce que l’on aime! Mon plus grand regret est de n’avoir pas pu enseigne
 
 Je suis née en Angleterre et j’ai la double nationalité. J’ai passé six mois fantastiques en Angleterre lors de la troisième année de licence et j’avais toujours voulu y retourner. L’Angleterre est un pays multiculturel et très tolérant. De nos jours, malheureusement, comme dans plusieurs autres pays d’Europe et d’ailleurs, le nationalisme, le racisme, l’islamophobie et l’antisémitisme surface.
 
-![screen reader text](premier-diplomes.png "")
+![screen reader text](premier-diplomes.jpg "")
 
 # Un petite mot de ... Baudouin Le Charlier
 

@@ -49,7 +49,7 @@ J'ai été le premier à défendre mon mémoire. Du coup, je n'avais aucune idé
 
 Les facultés de Namur disposaient en tout et pour tout d'un seul ordinateur GE 400 avec 32K mots de mémoire (des mots de 24 bits), lecteur et perforateur de cartes, une imprimante "rapide" à chaine, et deux armoires de bandes magnétiques. On avait droit, au mieux, à un passage machine par jour. Ça rend soigneux. Pour perforer les cartes, il y avait une très vieille perforatrice à laquelle manquait l'indication des lettres sur certaines touches. Après avoir perforé ses cartes, il fallait les passer dans une autre machine : une "interpréteuse" pour vérifier l'absence de fautes.
 
-![screen reader text](visite-roi-baudouin-1974.png "Visite du Roi Baudouin à l’Institut d’Informatique en 1974")
+![screen reader text](visite-roi-baudouin-1974.jpg "Visite du Roi Baudouin à l’Institut d’Informatique en 1974")
 
 ## Si vous deviez recontacter un professeur aujourd’hui, lequel serait-ce ?
 
@@ -68,7 +68,7 @@ Un coup de pouce donné à Naji Habra pour lui permettre d'obtenir un poste déf
 
 Il faut faire ce qu'on aime. Comme disait quelqu'un dont le nom m'échappe : le reste vous sera donné par surcroît. Ceci dit, si vous aimez par dessus tout bidouiller, choisissez n'importe quoi mais pas des études universitaires.
 
-![screen reader text](blecharlier.png "")
+![screen reader text](blecharlier.jpg "")
 
 # Un petit mot de ... Vincent Englebert
 

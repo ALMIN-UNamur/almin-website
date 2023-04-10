@@ -1,8 +1,8 @@
 ---
-title: Recent & Upcoming Events
+title: "Évènements organisés par l'ALMIN"
 
 # Listing view
-view: compact
+view: card
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

@@ -1,48 +1,64 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# ALMIN Website
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+_[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
-
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
-
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
-
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
-
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
-
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
+- 👉 [**Get Started**](https://wowchemy.com/templates/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-modules/releases)
 
-## We ask you, humbly, to support this open source movement
+## Adding elements to the Website
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+### Committee members
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+Team members are listed in [content/authors/](content/authors/). Each team member has its own subdirectory, corresponding to their **firstname-lastname**. *Please use this identifier of the members of the team (i.e., firstname-lastname) instead of their full name when encoding authors for publications, projects, and news to ensure proper linking on the website.*
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+Each user must be part of one of the following user groups (`user_groups:` in the `_index.md` of the user):
+- Présidence
+- Membres
+- 'Ancien membres'
 
-## Demo credits
+More groups can be added in the [content/people/people.md](content/people/people.md) file.
 
-Please replace the demo images with your own.
+Check [Wowchemy documentation](https://wowchemy.com/docs/content/authors/) to know more about profiles content.
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+
+Hugo command to add a team member:
+
+```
+hugo new --kind authors authors/firstname-lastname
+```
+
+### Posts and news
+
+News are available in [content/post/](content/post/). Each news has its own subdirectory respecting the format `year-month-day-id`. Check the documentation on blog posts at [https://wowchemy.com/docs/content/blog-posts/](https://wowchemy.com/docs/content/blog-posts/).
+
+Hugo command to add a news:
+
+```
+hugo new --kind post post/2020-10-08-mynews
+```
+
+### Events
+
+Events are available in [content/event/](content/event/). Each event has its own subdirectory respecting the format `year-month-day-id`. Check the documentation on blog posts at [https://wowchemy.com/docs/content/events/](https://wowchemy.com/docs/content/events/).
+
+Hugo command to add a news:
+
+```
+hugo new  --kind event event/2020-10-08-myevent
+```
+
+### Checklist before commit
+
+Please check before comiting your changes that:
+
+- authors of the committee have been added using their identifier, corresponding to the name of the folder [content/author/](content/author/) (for example, `xavier-devroey`), to ensure proper referencing on the website;
+```
+authors:
+  - john-doe
+  - Jane-doe
+  - Another Author
+```

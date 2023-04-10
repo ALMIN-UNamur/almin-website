@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 15
 
-title: "Dernières nouvelles"
+title: "Prochains évènements"
 subtitle:
 
 content:
@@ -13,12 +13,15 @@ content:
     author: ''
     category: ''
     exclude_featured: false
+    exclude_future: false
+    exclude_past: true
     publication_type: ''
     tag: ''
   offset: 0
-  order: desc
-  page_type: post
+  sort_by: 'Date'
+  sort_ascending: true
+  page_type: event
 design:
-  view: showcase
+  view: card
   columns: '2'
 ---

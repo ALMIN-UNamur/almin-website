@@ -3,7 +3,7 @@
 
 title: "Souper des anciens"
 event: Souper des anciens
-event_url:
+event_url: https://forms.gle/HMJFrA7V63xTCpz67
 location: Arsenal, Université de Namur
 address:
   street: rue Bruno, 11
@@ -67,4 +67,8 @@ slides: ""
 projects: []
 ---
 
-Bientôt plus d'information à propos du souper des anciens ... mais bloquez déjà la date ;-)
+Nous sommes très heureux de vous convier à notre soirée exceptionnelle qui aura lieu le vendredi 26 mai prochain à l'Arsenal de Namur. C'est l'occasion d'enfin tous se retrouver après 3 ans !
+
+Vous trouverez toutes les informations nécessaires dans le formulaire suivant : https://forms.gle/HMJFrA7V63xTCpz67. Veuillez le remplir avant le 9 mai pour vous inscrire.
+
+Nous nous réjouissons de vous y voir nombreux !

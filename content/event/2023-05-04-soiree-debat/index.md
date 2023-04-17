@@ -4,9 +4,9 @@
 title: "L'union industrie-science au service de la cybersécurité : regards croisés sur le futur du numérique"
 event: "Conférence-débat"
 event_url: https://framaforms.org/lunion-industrie-science-au-service-de-la-cybersecurite-regards-croises-sur-le-futur-du-numerique
-location: Faculté d'Informatique, Université de Namur
+location: Auditoire PA02, Université de Namur
 address: 
-  street: rue Grandgagnage, 21
+  street: Rue de Bruxelles 69
   city: Namur
   region:
   postcode: 5000
@@ -69,6 +69,14 @@ projects: []
 
 **L'inscription est gratuite mais souhaitée pour des raisons d'organisation via le formulaire suivant : [https://framaforms.org/lunion-industrie-science-au-service-de-la-cybersecurite-regards-croises-sur-le-futur-du-numerique](https://framaforms.org/lunion-industrie-science-au-service-de-la-cybersecurite-regards-croises-sur-le-futur-du-numerique)**
 
+Des représentants scientifiques et industriels présenteront et discuteront ensemble des travaux actuels et futurs en matière de cybersécurité. Cet échange en regards croisés sera l'occasion pour tout un chacun de démystifier et d'en apprendre davantage sur un sujet qui occupe une place de plus en plus importante dans les débats.
+
 En pratique, plusieurs présentations seront suivies d'un débat entre l'audience et les intervenants. La soirée se clôturera par un drink assuré par le Cercle Info de la Faculté d'Informatique.
 
-Les intervenants et le programme complet sera annoncé sous peu.
+## Programme
+
+- 18:00 : Introduction
+- 18:15 : Présentations de doctorants et professeurs de la Faculté d'Informatique de l'UNamur, de Wavestone Belgium et de NVISO.
+- 20:00 : Débat
+- 20:30 : Drink
+- 23:00 : Fin de la soirée

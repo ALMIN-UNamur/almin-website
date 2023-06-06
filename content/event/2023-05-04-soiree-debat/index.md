@@ -80,3 +80,5 @@ En pratique, plusieurs présentations seront suivies d'un débat entre l'audienc
 - 20:00 : Débat
 - 20:30 : Drink
 - 23:00 : Fin de la soirée
+
+Les photos de la soirée sont disponibles via la [photothèque de l'Université de Namur](https://phototheque.unamur.be/evenements/soiree-almin-mai-2023).

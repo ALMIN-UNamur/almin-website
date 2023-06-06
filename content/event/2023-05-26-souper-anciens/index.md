@@ -72,3 +72,5 @@ Nous sommes très heureux de vous convier à notre soirée exceptionnelle qui au
 Vous trouverez toutes les informations nécessaires dans le formulaire suivant : https://forms.gle/HMJFrA7V63xTCpz67. Veuillez le remplir avant le 9 mai pour vous inscrire.
 
 Nous nous réjouissons de vous y voir nombreux !
+
+Les photos de la soirée sont disponibles via la [photothèque de l'Université de Namur](https://phototheque.unamur.be/evenements/fac-info-souper-almin-2023).

@@ -18,7 +18,7 @@ content:
   user_groups:
     - Présidence
     - Membres
-    - 'Ancien membres'
+    - 'Anciens membres'
 design:
   show_interests: false
   show_role: false

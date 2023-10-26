@@ -77,13 +77,13 @@ Vous recevrez les modalités de paiement par mail après l’inscription. Si vou
 
 Cette année, nous sommes heureux de vous proposer un buffet italien, au menu :
 
-    - Mille-feuille d’aubergine façon parmiggiana,
-    - Aiguillette de volaille, sauce 4 fromages et tagliatelles,
-    - Émincé de porc à la sauce Napolitaine et Polenta,
-    - Tortellini au parmesan et ricotta gratinés,
-    - Lasagne végétarienne (🌱),
-    - Roulade de pâtes végétariennes (🌱),
-    - Et pour le dessert : panna cotta au caramel beurre salé !
+- Mille-feuille d’aubergine façon parmiggiana,
+- Aiguillette de volaille, sauce 4 fromages et tagliatelles,
+- Émincé de porc à la sauce Napolitaine et Polenta,
+- Tortellini au parmesan et ricotta gratinés,
+- Lasagne végétarienne (🌱),
+- Roulade de pâtes végétariennes (🌱),
+- Et pour le dessert : panna cotta au caramel beurre salé !
 
 Pour toute information complémentaire ou des demandes particulières, n'hésitez pas à contacter l'organisation à l'adresse suivante : [cercle.info.nam@gmail.com](mailto:cercle.info.nam@gmail.com)
 

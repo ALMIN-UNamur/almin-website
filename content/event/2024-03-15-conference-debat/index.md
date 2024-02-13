@@ -67,14 +67,19 @@ slides: ""
 projects: []
 ---
 
-**L'inscription est gratuite mais souhaitée pour des raisons d'organisation via le formulaire suivant : [Bientôt disponible]()**
+**L'inscription est gratuite mais souhaitée pour des raisons d'organisation via [https://www.billetweb.fr/soiree-impact](https://www.billetweb.fr/soiree-impact)**
 
 L’évènement a pour ambition de stimuler les dynamiques entre acteurs de l’entreprise, acteurs du monde académique et acteurs du monde politique de la Fédération Wallonie-Bruxelles avec un thème sous-jacent : comment faciliter l’innovation à travers la collaboration entre ces mondes. Moment de rencontre entre les générations et les secteurs, cet événement se veut une soirée de rencontre et d’inspiration.
 
 ## Programme
 
 - 18:30 : Introduction
-- 18:35 : « Innover par des modèles d’affaires à impact », par le professeur Yves Pigneur
-- 19:30 : « Comment stimuler les énergies pour faire émerger des modèles d’affaires à impact en Wallonie ? », table ronde
+- 18:35 : « Innover par des modèles d’affaires à impact », par
+    - le professeur Yves Pigneur
+- 19:30 : « Comment stimuler les énergies pour faire émerger des modèles d’affaires à impact en Wallonie ? », table ronde avec
+    - Annick Castiaux
+    - David Dab
+    - Bérangère Fally
+    - Roald Sieberath
 - 20:30 : Drink
 - 21:30 : Fin de la soirée

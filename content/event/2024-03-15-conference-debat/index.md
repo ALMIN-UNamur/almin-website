@@ -3,7 +3,7 @@
 
 title: "Innover par des modèles d’affaires à impact: Comment stimuler les énergies pour faire émerger des modèles d’affaires à impact en Wallonie ?"
 event: "Conférence-débat: IMPACT !"
-event_url: 
+event_url: https://www.billetweb.fr/soiree-impact
 location: Auditoire Adam Smith (E01), Université de Namur
 address: 
   street: rue Rempart de la Vierge 8

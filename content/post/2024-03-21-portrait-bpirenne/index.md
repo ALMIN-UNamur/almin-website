@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Image de macrovector sur Freepik"
+  caption: "Benoît Pirenne"
   focal_point: ""
   preview_only: false
 
@@ -84,3 +84,5 @@ Géographiquement, le Canada est évidemment un pays aux perspectives et opportu
 
 Je vis à Victoria, capitale de la Colombie-Britannique, ville charmante et touristique sur l’île de Vancouver, une île dont la population est de moins d’un million d’habitants et dont la superficie
 égale la Belgique et le Luxembourg. Venez nous visiter ... après COVID... 😊
+
+![screen reader text](bpirenne.jpg "")

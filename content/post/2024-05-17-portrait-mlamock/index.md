@@ -63,7 +63,7 @@ En 2014, j’ai rejoint SMALS à Bruxelles comme employé. J’ai fait partie de
  
 En 2017, j’ai pu allier mes 2 diplômes car j’ai eu l’opportunité de retourner chez GSK comme Business Analyst freelance, pour continuer le développement et l’intégration du LIMS dans d’autres parties de la société, en Europe et aux USA.
  
-Enfin, depuis 2019, avec un ami, nous avons créé Les Bières Du Confluent, suite à notre passion commune qu’est le brassage. On voit plus cela comme un hobby, loin de remplacer notre vrai métier ! 
+Enfin, depuis 2019, avec un ami, nous avons créé [Les Bières Du Confluent](https://www.facebook.com/LesBieresDuConfluent), suite à notre passion commune qu’est le brassage. On voit plus cela comme un hobby, loin de remplacer notre vrai métier !
 
 ## Quels sont les points communs entre l'informatique et la bière ?
  
@@ -82,4 +82,5 @@ Cela permet de garder un pied dans les activités de l’université et de conti
 En fait, on y allait assez peu comme les cours étaient au soir, mais je dirais l’Orval :-)
 
 
-Contact : [LinkedIn](https://www.linkedin.com/in/martiallamock/)
+Contact : [LinkedIn](https://www.linkedin.com/in/martiallamock/), [Les Bières Du Confluent](https://www.facebook.com/LesBieresDuConfluent)
+

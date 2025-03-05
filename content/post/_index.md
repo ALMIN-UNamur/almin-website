@@ -1,11 +1,3 @@
 ---
-title: "Dernières nouvelles"
-
-# Listing view
-view: card
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: "Dernières nouvelles de l'ALMIN et des anciens"
 ---

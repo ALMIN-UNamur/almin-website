@@ -3,8 +3,8 @@
 title: "Babette Di Guardia"
 
 # Username (this should match the folder name and the name on publications)
-authors:
-- "babette-diguardia"
+first_name: Babette
+last_name: Di Guardia
 
 # Is this the primary user of the site?
 superuser: false

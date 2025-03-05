@@ -2,9 +2,9 @@
 # Display name
 title: "Sophie Fortz"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "sophie-fortz"
+# Full Name (for SEO)
+first_name: Sophie
+last_name: Fortz
 
 # Is this the primary user of the site?
 superuser: false
@@ -42,9 +42,6 @@ social:
 - icon: globe
   icon_pack: fas
   link: 'https://sfortz.github.io'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/FortzSophie
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sophie-fortz-554240177/

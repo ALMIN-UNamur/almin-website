@@ -2,9 +2,8 @@
 # Display name
 title: "Xavier Devroey"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "xavier-devroey"
+first_name: Xavier
+last_name: Devroey
 
 # Is this the primary user of the site?
 superuser: false
@@ -42,9 +41,6 @@ social:
 - icon: globe
   icon_pack: fas
   link: 'https://xdevroey.be'
-- icon: mastodon
-  icon_pack: fab
-  link: https://mas.to/@xdevroey
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xdevroey/

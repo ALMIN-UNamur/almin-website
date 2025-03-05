@@ -1,13 +1,13 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: unamur # can be modified in data/themes/unamur.toml
-  theme_night: unamur
+  theme_day: minimal
+  theme_night:
   font: native
   font_size: M
 
@@ -19,7 +19,15 @@ marketing:
     local_business_type: ''
     org_name: 'ALMIN'
     description: "Association des anciens de la Faculté d'informatique de l'Université de Namur"
-    twitter: ''
+    twitter:
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
@@ -97,7 +105,7 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  decap_cms:
     branch: main
     local_backend: false
   academicons:

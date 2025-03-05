@@ -2,9 +2,9 @@
 # Display name
 title: "Maxime Andre"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "maxime-andre"
+# Full Name (for SEO)
+first_name: Maxime
+last_name: Andre
 
 # Is this the primary user of the site?
 superuser: false
@@ -39,9 +39,6 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mxmadr
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mxmadr

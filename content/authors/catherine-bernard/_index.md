@@ -2,9 +2,8 @@
 # Display name
 title: "Catherine Bernard"
 
-# Username (this should match the folder name and the name on publications)
-authors:
-- "catherine-bernard"
+first_name: Catherine
+last_name: Bernard
 
 # Is this the primary user of the site?
 superuser: false

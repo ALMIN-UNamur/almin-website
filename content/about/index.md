@@ -10,10 +10,7 @@ sections:
       title: À propos de l'ALMIN
       text: |-
         L'ALMIN développe et anime le réseau des anciens de la Faculté d'Informatique de l'Université de Namur. Ses missions sont les suivantes :
-            - Développer et animer le réseau des anciens de la Faculté d'Informatique dans un esprit de convivialité et de solidarité.
-            - Créer et entretenir le sentiment d'appartenance à la famille de l'UNamur dans le respect de ses valeurs.
-            - Promouvoir l'image de la faculté et ses réalisations auprès des anciens et inversement.
-            - Assurer la solidarité intergénérationelle au sein de la communauté des anciens.
+            développer et animer le réseau des anciens de la Faculté d'Informatique dans un esprit de convivialité et de solidarité; créer et entretenir le sentiment d'appartenance à la famille de l'UNamur dans le respect de ses valeurs; promouvoir l'image de la faculté et ses réalisations auprès des anciens et inversement; assurer la solidarité intergénérationelle au sein de la communauté des anciens.
       email: almin@unamur.be
       address:
         street: rue Grandgagnage 21
@@ -34,6 +31,10 @@ sections:
           icon_pack: fab
           name: 'Retrouvez nous sur Facebook'
           link: 'https://www.facebook.com/groups/638582541369865'
+        - icon: at
+          icon_pack: fas
+          name: 'Inscrivez vous à la mailing list'
+          link: 'mailto:almin@unamur.be?subject=Inscription%20a%20la%20mailing%20list'
     
       # Automatically link email and phone or display as text?
       autolink: true

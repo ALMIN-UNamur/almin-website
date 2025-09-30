@@ -1,38 +1,13 @@
 ---
 # Display name
-title: "Sacha Corbugy"
+title: "Gerry Longfils"
 
 # Full Name (for SEO)
-first_name: Sacha
-last_name: Corbugy
+first_name: Gerry
+last_name: Longfils
 
 # Is this the primary user of the site?
 superuser: false
-
-# Role/position (e.g., Professor of Artificial Intelligence)
-# role:
-
-# Organizations/Affiliations
-# organizations:
-# - name: 
-#  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-# bio: 
-
-# List each interest with a dash
-# interests:
-# - Interest 1
-# - Interest 2
-
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,10 +16,10 @@ superuser: false
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sacha-corbugy/
+  link: https://www.linkedin.com/in/gerry-longfils-41578021a/
 - icon: github 
   icon_pack: fab
-  link: https://github.com/sady410
+  link: https://github.com/djedje-cyber
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

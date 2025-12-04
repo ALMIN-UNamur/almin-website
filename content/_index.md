@@ -46,7 +46,7 @@ sections:
       order: asc
       page_type: event
     design:
-      view: card
+      view: 2
       columns: '2'
   
   - block: collection
